@@ -1,6 +1,8 @@
 // ConsoleApplication1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
+// Hola amigo
+
 #include <iostream>
 
 int main()
